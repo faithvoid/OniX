@@ -14,7 +14,6 @@
 # Not working:
 - [ ] Everything, prototype phase, baby!
 
-
 # Planned:
 - [ ] Upgrade SDL2 backend to SDL3 (as NXDK has poor SDL2 support)
 - [ ] Native save integration that includes per-chapter save icons
@@ -22,8 +21,10 @@
 - [ ] Demo(?)
 - [ ] XISO/HDD/CD/DVD support
 - [ ] Auto resolution detection to run the game in 480p or 720p, if performance allows.
+- [ ] Dual input methods (keyboard + mouse as well as controller)
 
 # Not Planned:
+- [ ] AE support or anything outside of a 1:1 port of the original game, as the port should feel like a native console release.
 
 # Untested:
 

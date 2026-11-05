@@ -1,3 +1,39 @@
+# OniFoXed
+<p align="center">
+  <em>Oni for the original Xbox using OniFoxed and NXDK.</em><br>
+  <img src="screenshots/1.png" alt="" /><br>
+  <img src="screenshots/2.png" alt="" />  <img src="screenshots/3.png" alt="" /><br>
+	  <i>Save data from OniFoXed, as viewed in the dashboard.</i>
+</p>
+
+# Working:
+- [ ] Nothing so far, prototype phase, baby!
+
+# Partially working:
+
+# Not working:
+- [ ] Everything, prototype phase, baby!
+
+
+# Planned:
+
+# Not Planned:
+
+# Untested:
+
+# Installation
+- Download and extract the latest release .zip file to your folder of choice
+- Copy your "GameDataFolder" folder from your Mac version or Windows demo version (1.1) of Oni beside "default.xbe". Game data is not provided with this port, nor will it ever be, but demo data may be provided at some point.
+- To copy/delete your save data, you can manage it from the Xbox dashboard like any retail Xbox game.
+
+# Building (NXDK)
+
+- TBA
+
+# Credits
+
+Original README below.
+
 # OniFoxed
 
 ## What's this?

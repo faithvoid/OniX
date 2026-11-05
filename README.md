@@ -1,4 +1,4 @@
-# OniFoXed
+# OniX
 <p align="center">
   <em>Oni for the original Xbox using OniFoxed and NXDK.</em><br>
   <img src="screenshots/1.png" alt="" /><br>

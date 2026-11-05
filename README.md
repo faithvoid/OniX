@@ -16,6 +16,12 @@
 
 
 # Planned:
+- [ ] Upgrade SDL2 backend to SDL3 (as NXDK has poor SDL2 support)
+- [ ] Native save integration that includes per-chapter save icons
+- [ ] Xbox button prompts
+- [ ] Demo(?)
+- [ ] XISO/HDD/CD/DVD support
+- [ ] Auto resolution detection to run the game in 480p or 720p, if performance allows.
 
 # Not Planned:
 
